@@ -1,0 +1,10 @@
+{
+  "teacher1": {
+    "salt": "89f2b7b8b61569ede2b2421e68caa32c",
+    "password_hash": "810a07469a3b501243f767cae8689f75886f33a71ee8fb276dd6afab128d4a1c"
+  },
+  "teacher2": {
+    "salt": "61a026c9f2207007202979b294fe8cf4",
+    "password_hash": "e1aa174492f98fc945412d5e3b7e2dc723491cf6d0c5ab10854ed319adfaa3f6"
+  }
+}
